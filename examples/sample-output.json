@@ -1,0 +1,67 @@
+[
+  {
+    "company": "Airbnb",
+    "companySlug": "airbnb",
+    "ats": "Greenhouse",
+    "jobId": "8396777",
+    "title": "Senior Data Engineer Tech Foundations",
+    "department": "Engineering & Technology",
+    "team": null,
+    "location": "US - Remote",
+    "allLocations": [
+      "US - Remote",
+      "United States"
+    ],
+    "workplaceType": "Remote",
+    "employmentType": null,
+    "salary": null,
+    "postedAt": "2026-11-17T19:22:59.000Z",
+    "updatedAt": "2026-11-17T19:22:59.000Z",
+    "url": "https://careers.airbnb.com/positions/8396777?gh_jid=8396777",
+    "applyUrl": "https://careers.airbnb.com/positions/8396777?gh_jid=8396777",
+    "remote": true
+  },
+  {
+    "company": "Airbnb",
+    "companySlug": "airbnb",
+    "ats": "Greenhouse",
+    "jobId": "8352713",
+    "title": "Manager, Premium Support",
+    "department": "Community Support",
+    "team": null,
+    "location": "Gurugram, India",
+    "allLocations": [
+      "Gurugram, India"
+    ],
+    "workplaceType": "Onsite",
+    "employmentType": null,
+    "salary": null,
+    "postedAt": "2026-11-17T07:44:52.000Z",
+    "updatedAt": "2026-11-17T07:44:52.000Z",
+    "url": "https://careers.airbnb.com/positions/8352713?gh_jid=8352713",
+    "applyUrl": "https://careers.airbnb.com/positions/8352713?gh_jid=8352713",
+    "remote": false
+  },
+  {
+    "company": "Airbnb",
+    "companySlug": "airbnb",
+    "ats": "Greenhouse",
+    "jobId": "8394382",
+    "title": "Engineering Manager, External Search & AI Optimization",
+    "department": "Software Engineering",
+    "team": null,
+    "location": "Remote - USA",
+    "allLocations": [
+      "Remote - USA",
+      "United States"
+    ],
+    "workplaceType": "Remote",
+    "employmentType": null,
+    "salary": null,
+    "postedAt": "2026-11-17T00:52:32.000Z",
+    "updatedAt": "2026-11-17T00:53:52.000Z",
+    "url": "https://careers.airbnb.com/positions/8394382?gh_jid=8394382",
+    "applyUrl": "https://careers.airbnb.com/positions/8394382?gh_jid=8394382",
+    "remote": true
+  }
+]
